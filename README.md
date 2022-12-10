@@ -1,4 +1,4 @@
-Hi, I'm Edwin and I'm interested in learning web development right now.
+Hi, I'm Edwin and I would say I'm someone who is very passionate about science, math and programming.
 I'm industrial engineer and currently I'm studying computational robotics engineering
 
 <!---
